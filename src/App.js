@@ -31,6 +31,15 @@ function App(props) {
           </div>
           <Adds humidity={50} wind={10} feeling={15} />
         </div>
+        <span class="sourceCode">
+          <a
+            href="https://github.com/DariaHolovko/react-weather"
+            class="sourceLink"
+          >
+            Open-source code
+          </a>
+          by Daria Holovko
+        </span>
       </div>
     </div>
   );
